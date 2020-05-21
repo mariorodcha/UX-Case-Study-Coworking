@@ -8,4 +8,8 @@ El objetivo del análisis competitivo es encontrar similitudes entre los distint
 * ¿Qué información ofrece la empresa sobre sus clientes?
 * ¿Qué tipo de gestión online ofrece la empresa?
 
-Los resultados se pueden encontrar 
+![Análisis_competitivo](img/analisis_competitivo.png)
+
+A partir de los resultados de la tabla podemos observar que, respecto a los servicios que ofrecen, todas las páginas comparten una estructura similar. Todas tienen un apartado para cada servicio que ofrecen y suelen mostrar las distintas tarifas y prestaciones de cada servicio. Por otro lado, solo ErranT y Anda CoWork tienen una sección para presentar a las personas y empresas que trabajan con ellos, esto destaca pues el coworking se basa en trabajar en espacios multidisciplinales para enriquecer la experiencia de todos los usuarios, tiene sentido que la empresa que oferta dicho espacio quiera mostrar a qué se dedican sus usuarios. Por último, ninguna empresa tiene gestión online de ningún tipo, al menos no desde su página web.
+
+En conclusión, todas las empresas analizadas utilizan su página web como un portal donde obtener información sobre sus servicios. En todas ellas se hace hincapié en contactar o bien en persona o a través del formulario. Ninguna ofrece una gestión online de tarifas, reserva de espacios o bienes comunes, etc.
