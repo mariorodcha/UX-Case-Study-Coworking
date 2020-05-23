@@ -1,7 +1,7 @@
 # UX-Case-Study-Coworking
 ## ¿Qué es ErranT?
 ErranT es la página web de una empresa de coworking de Granada. La página web sirve como punto de información sobre los servicios que ofrece la empresa, entre los que se incluye espacios de coworking, salas de reuniones y un servicio de creación de contenido audiovisual para empresas. En ella se pueden consultar las distintas tarifas y las prestaciones de cada servicio. La página web no ofrece ninguna otra funcionalidad a parte de la de mostrar información sobre los servicios de la empresa.
-## Análisis de Errant
+## Análisis de ErranT
 ### Análisis Competitivo
 El objetivo del análisis competitivo es encontrar similitudes entre los distintos servicios de coworking de Granada para obtener una idea precisa de qué uso dan las empresas de coworking a su página web. Para ello, hemos escogido cinco empresas de coworking situadas en la misma ciudad que ErranT. Los puntos a comprobar se dividen en cuatro bloques:
 * ¿Cómo se muestran los servicios que ofertan?
@@ -47,3 +47,12 @@ Una vez el cliente haya contratado un servicio, será dado de alta en la platafo
 La estructura nueva de la página web mantendrá todos los elementos de la original, añadiendo páginas para la nueva funcionalidad. Todos los elementos en la caja azul son accesibles a partir del menú de navegación de la página web. Para acceder al "área coworker", se realizará desde un botón en dicho menú.
 
 ![Sitemap](img/sitemap.png)
+
+
+### Labelling
+Para dar claridad al sitemap y evitar ambigüedades entre los distintos sitios, en el documento de labelling se especifica el uso de cada sitio. El labelling se encuentra en el siguiente [documento](labelling.pdf).
+
+### Wireframes
+Una vez especificada la funcionalidad y la nueva estructura de la página, hay que hacer bocetos muy simples y esquemáticos sobre las distintas páginas. Como no vamos a modificar ninguna de las páginas ya existentes, solo se han realizado bocetos de los sitios nuevos, así como de la barra de navegación, que ha sido ligeramente modificada.
+
+Los wireframes se pueden ver en la carpeta [Wireframes](wireframes/).
