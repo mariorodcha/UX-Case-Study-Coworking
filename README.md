@@ -33,3 +33,16 @@ El último elemento de anális que vamos a utilizar es el Feedback Capture Grid.
 ![Feedback_capture_grid](img/FCG.png)
 
 
+## (Re)Diseño de ErranT
+En el rediseño de ErranT, vamos a usar la información obtenida a partir del análisis anterior para determinar qué modificar o añadir para obtener una mejor experiencia de usuario. Tras hacer un brainstorming sobre las distintas posibilidades, hemos determinado que vamos a implementar un sistema de gestión de usuario.
+
+Una vez el cliente haya contratado un servicio, será dado de alta en la plataforma online. A esta plataforma podrá acceder desde la página web, a partir de un usuario y contraseña. El usuario podra:
+* Gestionar el tipo de tarifa que tiene, observar un historial de compra, modificar la tarifa, etc.
+* Reservar las distintas salas y elementos que disponga la empresa, como sala de reuniones, taquillas personales, espacios de trabajo, etc.
+* Publicar una reseña de erranT, que se mostrará en el apartado "Opiniones" de la página web, visible para cualquier visitante.
+* Visitar el foro de coworkers, donde podrá publicar posts, comentar, colaborar con otros coworkers...
+
+### Sitemap
+La estructura nueva de la página web mantendrá todos los elementos de la original, añadiendo páginas para la nueva funcionalidad. Todos los elementos en la caja azul son accesibles a partir del menú de navegación de la página web. Para acceder al "área coworker", se realizará desde un botón en dicho menú.
+
+![Sitemap](img/sitemap.png)
