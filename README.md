@@ -1,6 +1,6 @@
 # UX-Case-Study-Coworking
 ## ¿Qué es ErranT?
-> ErranT es la página web de una empresa de coworking de Granada. La página web sirve como punto de información sobre los servicios que ofrece la empresa, entre los que se incluye espacios de coworking, salas de reuniones y un servicio de creación de contenido audiovisual para empresas. En ella se pueden consultar las distintas tarifas y las prestaciones de cada servicio. La página web no ofrece ninguna otra funcionalidad a parte de la de mostrar información sobre los servicios de la empresa.
+ErranT es la página web de una empresa de coworking de Granada. La página web sirve como punto de información sobre los servicios que ofrece la empresa, entre los que se incluye espacios de coworking, salas de reuniones y un servicio de creación de contenido audiovisual para empresas. En ella se pueden consultar las distintas tarifas y las prestaciones de cada servicio. La página web no ofrece ninguna otra funcionalidad a parte de la de mostrar información sobre los servicios de la empresa.
 ## Análisis Competitivo
 El objetivo del análisis competitivo es encontrar similitudes entre los distintos servicios de coworking de Granada para obtener una idea precisa de qué uso dan las empresas de coworking a su página web. Para ello, hemos escogido cinco empresas de coworking situadas en la misma ciudad que ErranT. Los puntos a comprobar se dividen en cuatro bloques:
 * ¿Cómo se muestran los servicios que ofertan?
@@ -30,6 +30,6 @@ En el caso de Armando (el primer journey map), ha salido satisfecho de su visita
 ## Análisis de ErranT: Feedback Capture Grid
 El último elemento de anális que vamos a utilizar es el Feedback Capture Grid. Este elemento sirve para agrupar de forma estructurada y organizada la información obtenida en la etapas anteriores. A partir de él, podemos deducir qué mejoras aplicar a la página web.
 
-![Feedback_capture_grid](img/FBC.png)
+![Feedback_capture_grid](img/FCG.png)
 
 
