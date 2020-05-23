@@ -1,7 +1,8 @@
 # UX-Case-Study-Coworking
 ## ¿Qué es ErranT?
 ErranT es la página web de una empresa de coworking de Granada. La página web sirve como punto de información sobre los servicios que ofrece la empresa, entre los que se incluye espacios de coworking, salas de reuniones y un servicio de creación de contenido audiovisual para empresas. En ella se pueden consultar las distintas tarifas y las prestaciones de cada servicio. La página web no ofrece ninguna otra funcionalidad a parte de la de mostrar información sobre los servicios de la empresa.
-## Análisis Competitivo
+## Análisis de Errant
+### Análisis Competitivo
 El objetivo del análisis competitivo es encontrar similitudes entre los distintos servicios de coworking de Granada para obtener una idea precisa de qué uso dan las empresas de coworking a su página web. Para ello, hemos escogido cinco empresas de coworking situadas en la misma ciudad que ErranT. Los puntos a comprobar se dividen en cuatro bloques:
 * ¿Cómo se muestran los servicios que ofertan?
 * ¿Cómo se contacta con la empresa?
@@ -14,7 +15,7 @@ A partir de los resultados de la tabla podemos observar que, respecto a los serv
 
 En conclusión, todas las empresas analizadas utilizan su página web como un portal donde obtener información sobre sus servicios. En todas ellas se hace hincapié en contactar o bien en persona o a través del formulario. Ninguna ofrece una gestión online de tarifas, reserva de espacios o bienes comunes, etc.
 
-## Análisis de ErranT: Personas y Journey Map
+### Personas y Journey Map
 Una vez hemos realizado el análisis competitivo, vamos a analizar ahora cómo es la experiencia de usuario de ErranT en su estado actual. Para ello, vamos a crear dos personas que pueden ser usuarios potenciales de nuestra página web y vamos a desarollar el journey map de cada una para conocer cómo ha sido su paso por la página web. Por las restricciones de tiempo, vamos a utilizar las dos personas que creamos en la práctica 1, Armando y Vanessa:
 
 ![Persona_1](img/persona1.png)
@@ -27,7 +28,7 @@ Los journey maps obtenidos a partir de estas personas son los siguientes:
 
 En el caso de Armando (el primer journey map), ha salido satisfecho de su visita a la página web ya que la información es clara y de acceso fácil. Por otro lado, en el caso de Vanessa, ella buscaba un espacio de coworking que ofreciera un servicio de gestión del cliente vía online, para así no tener que contactar con la empresa cada vez que quisiera cambiar una tarifa o reservar una sala.
 
-## Análisis de ErranT: Feedback Capture Grid
+### Feedback Capture Grid
 El último elemento de anális que vamos a utilizar es el Feedback Capture Grid. Este elemento sirve para agrupar de forma estructurada y organizada la información obtenida en la etapas anteriores. A partir de él, podemos deducir qué mejoras aplicar a la página web.
 
 ![Feedback_capture_grid](img/FCG.png)
