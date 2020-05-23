@@ -53,6 +53,12 @@ La estructura nueva de la página web mantendrá todos los elementos de la origi
 Para dar claridad al sitemap y evitar ambigüedades entre los distintos sitios, en el documento de labelling se especifica el uso de cada sitio. El labelling se encuentra en el siguiente [documento](labelling.pdf).
 
 ### Wireframes
-Una vez especificada la funcionalidad y la nueva estructura de la página, hay que hacer bocetos muy simples y esquemáticos sobre las distintas páginas. Como no vamos a modificar ninguna de las páginas ya existentes, solo se han realizado bocetos de los sitios nuevos, así como de la barra de navegación, que ha sido ligeramente modificada.
+Una vez especificada la funcionalidad y la nueva estructura de la página, hay que hacer bocetos muy simples y esquemáticos sobre las distintas páginas. Como no vamos a modificar ninguna de las páginas ya existentes, solo se han realizado bocetos de los sitios nuevos, así como de la barra de navegación, que ha sido ligeramente modificada. Se ha optado por un diseño por un diseño sencillo y claro, que sea lo más legible posible.
 
 Los wireframes se pueden ver en la carpeta [Wireframes](wireframes/).
+
+### Pautas de estilo
+Se seguirán las pautas de estilo originales de erranT para preservar su estética ya que no hemos encontrado inconvenientes en el diseño original
+
+## Conclusión
+En conclusión, al hacer un análisis de la página web orientado en el usuario, hemos descubierto que, si bien la página web cumple de forma adecuada con el servicio que ofrece (ofrecer información), hemos detectado que hay un tipo de cliente que prefiere hacer trámites y gestiones cómodamente de forma online y que no tenían esa posibilidad. De este modo, hemos creado un sistema de gestión del usuario y un foro donde poder potenciar el coworking. Haciendo uso de las herramientas de diseño, hemos podido crear un diseño coherente, robusto y simple, manteniendo la estructura íntegra de la antigua página web.
